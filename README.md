@@ -21,7 +21,7 @@ The assignment focused on the information systems aspects in business, I used Vo
 - Key learnings and references
 
 ---
-##You can view the assignment here:
+## You can view the assignment here:
 [Work Week Assignment - CMPG223 Theory](https://github.com/Nathi666/System-analysis-Design-Theory-Assignment/blob/main/Work%20Week%20Assignment.pdf)
 
 ---
